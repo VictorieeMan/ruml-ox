@@ -1,6 +1,8 @@
 [package]
 name = "ruml-ox"
 version = "0.1.0"
+license = "BSD-3-Clause"
+description = "Test setup (hellow world) for ruml-ox"
 authors = ["VictorieeMan <ruml-ox.io9i6@e-mail.victoriee.org>"]
 edition = "2021"
 # Repository URL:
